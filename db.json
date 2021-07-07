@@ -1,16 +1,216 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "title": "Berserk",
+      "subTitle": "Berserk",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/1044.jpg",
+      "body": "Guts (or Gutts) is a warrior who carries a sword bigger than him, he has immense strength because he can wield it with ease. He is a mercenary, who only cares about fighting. One day he meets Griffith, a leading knight of a gang known as La Banda del Halcón. Guts challenges him and Griffith accepts in exchange that if he defeats him, he will join his gang. Guts is defeated and although he does not accept it, he ends up joining the band. Little by little the band of mercenaries is gaining fame by winning important battles, everything indicates that Griffith's objective of possessing his own kingdom will come true. But the land of Midland hides many secrets ...",
+      "createDate": "1997/10/08",
+      "likes": 12,
+      "author": 3,
+      "tags": [1, 2, 4, 5, 7]
+    },
+    {
+      "id": 2,
+      "title": "Cowboy Bebop",
+      "subTitle": "カウボーイビバップ",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/284.jpg",
+      "body": "In this anime, director Shinichiro Watanabe tells us about the adventures of Spike, Faye, Jet Black, Ed and Ein ... a very peculiar group of bounty hunters who travel through the solar system in the Bebop ship. Bullets, excitement and fun are found in each of their self-concluding sessions, which will lead them to face a great adversary and old friend of Spike.",
+      "createDate": "1998/04/03",
+      "likes": 2,
+      "author": 1,
+      "tags": [1, 2, 3]
+    },
+    {
+      "id": 3,
+      "title": "Neon Genesis Evangelion",
+      "subTitle": "新世紀エヴァンゲリオン",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/460.jpg",
+      "body": "According to the history books, on September 13, 2000, a huge meteorite collided with Antarctica, causing the melting of the South Pole and the consequent flooding and destruction of all coastal cities. This crucial event was called Second Impact - the first was the one that destroyed the dinosaurs. The Earth then went through a state of crisis and natural catastrophes and more than half of the human population died. It has been 15 years since Second Impact when Tokyo-3 is attacked by a mysterious giant organic being, however this does not seem to be a surprise to a select group of people from a UN organization called NERV. They refer to the enemy as \"Third Angel\" and have developed some enigmatic giant robots called EVA with a peculiarity, they can only be piloted by 14-year-olds with characteristics that are not entirely clear.",
+      "createDate": "1995/10/04",
+      "likes": 3,
+      "author": "3",
+      "tags": [1, 3, 6, 5]
+    },
+    {
+      "id": 4,
+      "title": "One piece",
+      "subTitle": "ワンピース",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/7.jpg",
+      "body": "An epic pirate story, where it tells the story of \"Monkey D. Luffy \" who when he was 7 years old, accidentally ate an \"Akuma no mi \" (Devil's Futa) which gave him rubber powers. On the other hand \"Gol D. Roger \" known as \"The King of the Pirates \" who was executed by the Marine, spoke before dying, about his famous treasure \"One Piece \" hidden in the \" Great line \". This news unleashed the great era of pirates by launching countless pirates to that place, in search of \"One Piece \" the lost treasure. Ten years later, Luffy inspired by \"Gol D. Roger \" and a pirate named Akagami no Shanks (Shanks the redhead) becomes a pirate wishing to be the next \"King of the Pirates \" and set sail to meet friends and have adventures with them, aiming to find the \"One Piece \".",
+      "createDate": "1997/09/27",
+      "likes": 7,
+      "author": 3,
+      "tags": [1, 7, 2]
+    },
+    {
+      "id": 5,
+      "title": "Tengen Toppa Gurren Lagann",
+      "subTitle": "天元突破 グレンラガン",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/92.jpg",
+      "body": "Humanity is forced to live under the surface, thus passing many centuries, becoming forgotten and turning life on the surface into a legend. This is how small colonies are created by digging in different places and trying to escape the terrible earthquakes. In one of these colonies lives Simon, one of the best excavators, who in one of the holes finds a strange key in the form of a lathe. While everyone mocks Simon for being very weird and low self-esteem, the only one who supports him is always Kamina who invites him to go to the surface. Of course the Head of the colony forbids this action which is supposed to be taboo for the people and locks up Kamina. In a night excavation, Simon this time finds a face-shaped mecha and runs to Kamina to show him, but suddenly a huge face-shaped robot falls from the surface and just like a mysterious girl who attacks him with her rifle. Simon, Kamina and the girl (Yoko) try to escape and Simon leads them to their discovery, there he tells Kamina to drive him to defeat the robot, however, Kamina replies that that wick belongs to him and therefore he should handle it ... between twists and turns the 3 enter the head and before an impulse from Kamina together with the help of Yoko, Simon somehow manages to defeat the huge face; not only that but they are expelled towards the surface ... There Simon and Kamina discover a wonderful world for them but also find themselves with the surprise that on the surface a group of Ganmen (Mechas with the shape of a face) that attack the humans rising to the surface",
+      "createDate": "2007/03/31",
+      "likes": 7,
+      "author": 2,
+      "tags": [2, 1, 3]
+    },
+    {
+      "id": 6,
+      "title": "Jojo's bizarre adventures",
+      "subTitle": "ジョジョの奇妙な冒険",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/869.jpg",
+      "body": "The story begins with Jonathan Joestar, who lives with his father George in a wealthy England. Another boy Dio Brando is adopted by the two of them since George believed that his father Dario Brando had saved their lives. Jonathan tries to be friends with Dio, but Dio's plan is to drive JoJo insane and gain George's trust to become the heir to the Joestar fortune. To achieve this Dio beats Jonathan, kisses his girlfriend Erina and burns his dog Danny, and at the same time he gains George's trust with his good manners, but that's just the beginning everything gets complicated when DIO crosses paths with the \"demon mask\"and his hatred for jojo is no longer a matter of money. The story continues with all of Jonathan Joestar's (JoJo) advisors, children, grandchildren who share his ideals",
+      "createDate": "2012/10/05",
+      "likes": 7,
+      "author": 3,
+      "tags": [1, 7, 2]
+    },
+    {
+      "id": 7,
+      "title": "Jujutsu kaisen",
+      "subTitle": "呪術廻戦",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/3344.jpg",
+      "body": "Yuuji Itadori is a high school student with exceptional physical abilities. Every day, as a routine, he goes to the hospital to visit his sick grandfather and decides to join the institute's occult club so as not to hit the water ... However, one fine day the seal of the talisman that was hidden in his institute it breaks, and monsters begin to appear. Faced with this turn of events, Itadori decides to enter the institute to save his classmates. What will fate bring you?",
+      "createDate": "2020/10/02",
+      "likes": 7,
+      "author": 3,
+      "tags": [1, 2, 4, 6, 7]
+    },
+    {
+      "id": 9,
+      "title": "Ergo proxy",
+      "subTitle": "エルゴ プラクシー",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/419.jpg",
+      "body": "The story begins in a city called Romdo inhabited by humans and robots called \"Autoraves\", but then a series of murders occur caused by Autoraves infected with a virus called \"Cogito\", which gives the robots emotions. ? Vincent? an immigrant in charge of eliminating infected authors is involved with one called? PINO? which is accused of causing the infection in the city. Through the investigations? Lil Mayer? arrives at Vincent whose past is unknown, meanwhile Vincent and Pino are expelled from Romdo, Lil begins to doubt about the laws of the city and decides to go find him which leads her to start a journey full of secrets and unexpected situations together to Vincent and pine around the world in search of Vincent's past, where they will discover a devastated world but alive and some humanoids called Proxys who can be the salvation of the world.",
+      "createDate": "2006/02/18",
+      "likes": 7,
+      "author": 3,
+      "tags": [3, 5, 6]
+    },
+    {
+      "id": 10,
+      "title": "Serial Experiments Line",
+      "subTitle": "シリアルエクスペリメンツレイン",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/83.jpg",
+      "body": "Following the suicide of a student named Chisa Yomoda, her schoolmates start receiving strange posthumous emails from Chisa from the network - or Wired -. Among them is Lain Iwakura, a 14-year-old girl who finds it difficult to live with others. Without knowing the functioning of a computer, he opens the mail of the suicidal young woman, and, out of curiosity, tries to discover more about the subject, asking his father for a new Navi so that he can learn more about Wired (which is a system of navigation similar to what we know on the internet)",
+      "createDate": "1998/07/06",
+      "likes": 7,
+      "author": 3,
+      "tags": [3, 5, 6]
+    },
+    {
+      "id": 11,
+      "title": "Monster",
+      "subTitle": "モンスター",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/310.jpg",
+      "body": "Kensou Tenma, a renowned Japanese-born surgeon living in Germany is about to experience a story that will change his life: in 1986 in Dusseldorf while he was preparing to operate on a personality who arrived in critical condition, a couple of children he also came to the hospital; the girl was in a state of shock and the boy was in serious condition with a gunshot wound to the head. Debating between the most ethical and moral, Tenma agrees to operate on the child, going against his superiors, which would lead to problems since with the death of the previous patient, the hospital managers will be in charge of ruining his reputation ...",
+      "createDate": "2006/04/06",
+      "likes": 7,
+      "author": 3,
+      "tags": [3, 4, 5, 6]
+    },
+    {
+      "title": "Hunter x Hunter",
+      "subTitle": "ハンター×ハンター",
+      "image": "https://www3.animeflv.net/uploads/animes/covers/640.jpg",
+      "body": "Gon Frecks, a 12-year-old boy, lives with his aunt Mito and his grandmother in Isla Ballena, an orphan of a mother and according to his aunt also of a father. One day Gon is attacked by a forest bear, but he is saved by a hunter who explains that he is looking for his master in order to become a hunter, he is the one who tells him that his father Gin is alive. . Knowing this, Gon decides to become a hunter in order to find his father.",
+      "createDate": "2011/10/02",
+      "likes": 1,
+      "author": 2,
+      "tags": [1, 2, 7],
+      "id": 12
     }
   ],
-  "comments" : [
+  "tags": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "name": "Action",
+      "slug": "action"
+    },
+    {
+      "id": 2,
+      "name": "Adventure",
+      "slug": "adventure"
+    },
+    {
+      "id": 3,
+      "name": "Syfy",
+      "slug": "syfy"
+    },
+    {
+      "id": 4,
+      "name": "Terror",
+      "slug": "terror"
+    },
+    {
+      "id": 5,
+      "name": "Seinen",
+      "slug": "seinen"
+    },
+    {
+      "id": 6,
+      "name": "Drama",
+      "slug": "drama"
+    },
+    {
+      "id": 7,
+      "name": "Supernatural",
+      "slug": "supernatural"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Test comment on post #1",
+      "postId": 1,
+      "user": 1
+    },
+    {
+      "id": 2,
+      "comment": "Test comment on post #1",
+      "postId": 1,
+      "user": 2
+    },
+    {
+      "id": 3,
+      "comment": "Test comment on post #2",
+      "postId": 2,
+      "user": 3
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastName": "Wick"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "lastName": "Cena"
+    },
+    {
+      "id": 3,
+      "name": "Bruce",
+      "lastName": "Wayne"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Griffith",
+      "lastName": "Femto"
+    },
+    {
+      "id": 2,
+      "name": "Guts",
+      "lastName": "Guts"
+    },
+    {
+      "id": 3,
+      "name": "Spike",
+      "lastName": "Spiegel"
     }
   ]
 }
